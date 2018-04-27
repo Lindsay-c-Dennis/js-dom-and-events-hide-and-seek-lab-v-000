@@ -25,6 +25,8 @@ function increaseRankBy(n) {
    let children = ranking[i].children;
  }
  
-  return rankings; 
+ for (let j=0; j < children.length; j++) {
+   
+ }
  
 }
