@@ -29,4 +29,5 @@ function increaseRankBy(n) {
    children[j].innerHTML = parseInt(children[j].innerHTML) + 1;
  }
  
+ 
 }
